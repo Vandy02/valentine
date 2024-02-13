@@ -1,0 +1,46 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.background {
+  background-color: darksalmon;
+}
+.valentine-container {
+  background-color: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+}
+
+.text {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  color: black;
+  font-weight: 500;
+  margin: 10px;
+}
+
+.yesButton {
+  background-color: rgb(189, 247, 189);
+  width: 250px;
+  height: 115px;
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+  margin: 8px;
+  padding-top: 20px;
+  border-radius: 10px;
+}
+
+.noButton {
+  background-color: rgb(237, 154, 154);
+  width: 250px;
+  height: 115px;
+  margin: 8px;
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 20px;
+  border-radius: 10px;
+}
