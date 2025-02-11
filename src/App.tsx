@@ -32,7 +32,7 @@ function App() {
             alt="bears kissing"
             src="https://media.tenor.com/8trqa66_h6MAAAAi/dudu-bubu-bear-and-panda.gif"
           />
-          <div className="text"> Yay!!!! Love you my Dudiii </div>
+          <div className="text"> Yay!!!! </div>
         </>
       ) : (
         <>
@@ -40,7 +40,7 @@ function App() {
             alt="bear with hearts"
             src="https://media.tenor.com/Je68nyCU_j8AAAAi/bubu-dudu-bubu-dudu-love.gif"
           />
-          <div className="text"> Duduuu will you be my valentine?</div>
+          <div className="text"> Will you be my valentine?</div>
           <div>
             <button
               className="yesButton"
