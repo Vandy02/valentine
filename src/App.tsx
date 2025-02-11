@@ -5,7 +5,7 @@ const phrases = [
   "No",
   "Are you sure",
   "Really sure?",
-  "Dudiii please",
+  "Please Please Please!",
   "Don't do this to me",
   "I'm gonna cry",
   "You're breaking my heart :(",
